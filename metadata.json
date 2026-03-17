@@ -1,0 +1,7 @@
+{
+  "name": "TripCast",
+  "description": "A modern travel planning website that suggests activities based on real-time weather conditions and forecasts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
